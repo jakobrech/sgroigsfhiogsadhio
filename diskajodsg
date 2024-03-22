@@ -1,0 +1,2 @@
+dijkstras algorithm usies the weight of the map to check which path is shortest, it checks the weight of
+each part and takes the smallest weighted path even if it goes through more nodes
